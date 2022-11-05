@@ -16,9 +16,9 @@ https://connerlaursen.github.io/Password-Generator/
 
 Screenshot of Deployed Site
 
-![alt text](Develop/images/Screen Shot 2022-11-05 at 12.07.59 PM)
-![alt text](Develop/images/Screen Shot 2022-11-05 at 12.08.07 PM)
-![alt text](Develop/images/Screen Shot 2022-11-05 at 12.08.14 PM)
+![screenshot 1](Develop/images/Screenshot1)
+![screenshot 2](Develop/images/Screenshot2)
+![screenshot 3](Develop/images/Screenshot3)
 
 
 ## Licence
